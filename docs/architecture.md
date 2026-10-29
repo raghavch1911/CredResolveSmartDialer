@@ -38,4 +38,3 @@ state.
 
 Provider timeouts can have ambiguous outcomes. Uncertain calls must be reconciled
 before resources are released or calls are retried.
-```
