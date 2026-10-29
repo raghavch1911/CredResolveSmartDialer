@@ -64,7 +64,6 @@ CredResolveSmartDialer/
 ├── docs/
 │   └── architecture.md
 ├── requirements.txt
-├── .env.example
 ├── .gitignore
 └── README.md
 ```
